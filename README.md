@@ -1,5 +1,5 @@
-# TAGALOG-SYLLABLE-BASED-LIPREADING
-TAGALOG SYLLABLE-BASED LIP-READING: A VISUAL SPEECH RECOGNITION UTILIZING LONG SHORT-TERM MEMORY  
+# TAGALOG-SYLLABLE-BASED-LIPREADING: A VISUAL SPEECH RECOGNITION UTILIZING LONG SHORT-TERM MEMORY  
+
 Members:  Regine Balaoro Janreck Cayabyab Ma. Socorro Corpuz Shaina Mirandilla  ‌  
 
 In this research, we propose a lipreading computing system capable of recognizing common Tagalog syllables words by performing word extraction from the mouth movements. Its goal is to transform the input speech feature vector sequence into a sequence of words during the speech.
